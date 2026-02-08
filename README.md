@@ -159,6 +159,12 @@ Outputs a structured JSON representation to stdout.
 
 ---
 
+## Documentation
+
+- [Architecture Overview](ARCHITECTURE.md) — detailed description of the dungeon generation algorithm (Diablo I style)
+
+---
+
 ## License
 
 MIT
